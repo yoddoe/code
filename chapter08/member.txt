@@ -1,0 +1,10 @@
+0001|x|test1|x|1A1A|x|aaaa bbbb|x|1234
+cccc
+ddd
+5678|x|M|x|4|x||x|Notebook|x||x|<br>0001|x|test2|x|2B2B|x|bbbb cccc|x|12/23
+dddd
+eee
+13095|x|F|x|2|x||x||x||x|<br>0001|x|test2|x|2B2B|x|bbbb cccc|x|12/23
+dddd
+eee
+13095|x|F|x|2|x||x||x||x|<br>
